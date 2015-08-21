@@ -1,0 +1,2890 @@
+{
+  "totalConversations" : 103,
+  "withMessageFromSupplier" : 35,
+  "totalMessages" : 235,
+  "fromTopdesk" : 170,
+  "fromApp" : 65,
+  "query time in ms" : 21,
+  "conversations" : [ {
+    "name" : "Toilet heren 10de kant spiegel (#I1508-303)",
+    "asset" : 0,
+    "attachment" : 0,
+    "message" : 2,
+    "user" : 1,
+    "site" : 0,
+    "room" : 0,
+    "lastMessage" : "Aug 19, 2015 1:59:20 PM",
+    "view" : 11,
+    "remoteId" : 2,
+    "publicId" : 1,
+    "source" : 16,
+    "mailgun" : 4,
+    "mailgunEvents" : {
+      "clicked" : 3,
+      "delivered" : 1
+    },
+    "users (watching)" : [ {
+      "name" : "Service Manager Torenhove",
+      "type" : "supplier",
+      "messages" : 1,
+      "views" : 7,
+      "last visit" : "Aug 19, 2015 1:59:23 PM"
+    } ]
+  }, {
+    "name" : "Lamp liftgang 11e stuk (#I1508-274)",
+    "asset" : 0,
+    "attachment" : 0,
+    "message" : 3,
+    "user" : 1,
+    "site" : 0,
+    "room" : 0,
+    "lastMessage" : "Aug 18, 2015 1:05:11 PM",
+    "view" : 10,
+    "remoteId" : 2,
+    "publicId" : 1,
+    "source" : 17,
+    "mailgun" : 4,
+    "mailgunEvents" : {
+      "clicked" : 2,
+      "delivered" : 2
+    },
+    "users (watching)" : [ {
+      "name" : "Service Manager Torenhove",
+      "type" : "supplier",
+      "messages" : 1,
+      "views" : 3,
+      "last visit" : "Aug 18, 2015 1:47:25 PM"
+    } ]
+  }, {
+    "name" : "raambediening zit vast  12e zuidoost",
+    "asset" : 0,
+    "attachment" : 0,
+    "message" : 1,
+    "user" : 1,
+    "site" : 1,
+    "room" : 1,
+    "lastMessage" : "Aug 18, 2015 12:38:14 PM",
+    "view" : 6,
+    "remoteId" : 2,
+    "publicId" : 1,
+    "source" : 11,
+    "mailgun" : 2,
+    "mailgunEvents" : {
+      "clicked" : 1,
+      "delivered" : 1
+    },
+    "users (watching)" : [ {
+      "name" : "Service Manager Torenhove",
+      "type" : "supplier",
+      "messages" : 0,
+      "views" : 2,
+      "last visit" : "Aug 18, 2015 1:09:43 PM"
+    } ]
+  }, {
+    "name" : "Linker toilet spoelt niet goed door - 11e Dames",
+    "asset" : 0,
+    "attachment" : 0,
+    "message" : 2,
+    "user" : 1,
+    "site" : 1,
+    "room" : 1,
+    "lastMessage" : "Aug 18, 2015 12:18:16 PM",
+    "view" : 6,
+    "remoteId" : 2,
+    "publicId" : 1,
+    "source" : 13,
+    "mailgun" : 3,
+    "mailgunEvents" : {
+      "clicked" : 2,
+      "delivered" : 1
+    },
+    "users (watching)" : [ {
+      "name" : "Service Manager Torenhove",
+      "type" : "supplier",
+      "messages" : 1,
+      "views" : 3,
+      "last visit" : "Aug 18, 2015 12:18:18 PM"
+    } ]
+  }, {
+    "name" : "N.a.v. BHV check: lekkende leiding 2e etage",
+    "asset" : 0,
+    "attachment" : 2,
+    "message" : 3,
+    "user" : 1,
+    "site" : 0,
+    "room" : 0,
+    "lastMessage" : "Aug 18, 2015 11:11:15 AM",
+    "view" : 12,
+    "remoteId" : 2,
+    "publicId" : 1,
+    "source" : 20,
+    "mailgun" : 4,
+    "mailgunEvents" : {
+      "clicked" : 3,
+      "delivered" : 1
+    },
+    "users (watching)" : [ {
+      "name" : "Service Manager Torenhove",
+      "type" : "supplier",
+      "messages" : 1,
+      "views" : 8,
+      "last visit" : "Aug 18, 2015 11:11:20 AM"
+    } ]
+  }, {
+    "name" : "Boiler 14e stuk",
+    "asset" : 0,
+    "attachment" : 0,
+    "message" : 2,
+    "user" : 1,
+    "site" : 1,
+    "room" : 1,
+    "lastMessage" : "Aug 18, 2015 11:07:23 AM",
+    "view" : 8,
+    "remoteId" : 2,
+    "publicId" : 1,
+    "source" : 15,
+    "mailgun" : 4,
+    "mailgunEvents" : {
+      "clicked" : 3,
+      "delivered" : 1
+    },
+    "users (watching)" : [ {
+      "name" : "Service Manager Torenhove",
+      "type" : "supplier",
+      "messages" : 1,
+      "views" : 4,
+      "last visit" : "Aug 18, 2015 11:07:25 AM"
+    } ]
+  }, {
+    "name" : "N.a.v. BHV check: spullen in de weg (#I1508-272)",
+    "asset" : 0,
+    "attachment" : 0,
+    "message" : 1,
+    "user" : 1,
+    "site" : 0,
+    "room" : 0,
+    "lastMessage" : "Aug 18, 2015 8:05:39 AM",
+    "view" : 6,
+    "remoteId" : 2,
+    "publicId" : 1,
+    "source" : 9,
+    "mailgun" : 4,
+    "mailgunEvents" : {
+      "clicked" : 3,
+      "delivered" : 1
+    },
+    "users (watching)" : [ {
+      "name" : "Service Manager Torenhove",
+      "type" : "supplier",
+      "messages" : 0,
+      "views" : 5,
+      "last visit" : "Aug 18, 2015 11:12:18 AM"
+    } ]
+  }, {
+    "name" : "N.a.v. BHV check: Opening rondom pijp (#I1508-263)",
+    "asset" : 0,
+    "attachment" : 1,
+    "message" : 2,
+    "user" : 1,
+    "site" : 0,
+    "room" : 0,
+    "lastMessage" : "Aug 18, 2015 8:03:02 AM",
+    "view" : 11,
+    "remoteId" : 2,
+    "publicId" : 1,
+    "source" : 17,
+    "mailgun" : 5,
+    "mailgunEvents" : {
+      "clicked" : 3,
+      "delivered" : 2
+    },
+    "users (watching)" : [ {
+      "name" : "Service Manager Torenhove",
+      "type" : "supplier",
+      "messages" : 0,
+      "views" : 4,
+      "last visit" : "Aug 18, 2015 11:08:00 AM"
+    } ]
+  }, {
+    "name" : "N.a.v. BHV check: glas kapot nooddeuren (#I1508-267)",
+    "asset" : 0,
+    "attachment" : 1,
+    "message" : 2,
+    "user" : 1,
+    "site" : 0,
+    "room" : 0,
+    "lastMessage" : "Aug 18, 2015 8:02:53 AM",
+    "view" : 12,
+    "remoteId" : 2,
+    "publicId" : 1,
+    "source" : 18,
+    "mailgun" : 6,
+    "mailgunEvents" : {
+      "clicked" : 4,
+      "delivered" : 2
+    },
+    "users (watching)" : [ {
+      "name" : "Service Manager Torenhove",
+      "type" : "supplier",
+      "messages" : 0,
+      "views" : 6,
+      "last visit" : "Aug 18, 2015 11:11:50 AM"
+    } ]
+  }, {
+    "name" : "Esize-Coda (#15 07 187)",
+    "asset" : 0,
+    "attachment" : 0,
+    "message" : 2,
+    "user" : 1,
+    "site" : 0,
+    "room" : 0,
+    "lastMessage" : "Aug 17, 2015 11:40:26 AM",
+    "view" : 9,
+    "remoteId" : 2,
+    "publicId" : 1,
+    "source" : 14,
+    "mailgun" : 5,
+    "mailgunEvents" : {
+      "clicked" : 3,
+      "delivered" : 2
+    },
+    "users (watching)" : [ {
+      "name" : "Roel Megen",
+      "type" : "supplier",
+      "messages" : 0,
+      "views" : 5,
+      "last visit" : "Aug 18, 2015 9:23:45 AM"
+    } ]
+  }, {
+    "name" : "Controle documenten esize (#15 08 047)",
+    "asset" : 0,
+    "attachment" : 0,
+    "message" : 4,
+    "user" : 1,
+    "site" : 0,
+    "room" : 0,
+    "lastMessage" : "Aug 13, 2015 8:18:30 PM",
+    "view" : 8,
+    "remoteId" : 2,
+    "publicId" : 1,
+    "source" : 17,
+    "mailgun" : 4,
+    "mailgunEvents" : {
+      "clicked" : 2,
+      "delivered" : 2
+    },
+    "users (watching)" : [ {
+      "name" : "Roel Megen",
+      "type" : "supplier",
+      "messages" : 2,
+      "views" : 4,
+      "last visit" : "Aug 13, 2015 8:18:32 PM"
+    } ]
+  }, {
+    "name" : "nooddeur 11e gaat niet op slot (#I1508-195)",
+    "asset" : 0,
+    "attachment" : 0,
+    "message" : 1,
+    "user" : 1,
+    "site" : 0,
+    "room" : 0,
+    "lastMessage" : "Aug 13, 2015 9:00:34 AM",
+    "view" : 8,
+    "remoteId" : 2,
+    "publicId" : 1,
+    "source" : 11,
+    "mailgun" : 5,
+    "mailgunEvents" : {
+      "clicked" : 4,
+      "delivered" : 1
+    },
+    "users (watching)" : [ {
+      "name" : "Service Manager Torenhove",
+      "type" : "supplier",
+      "messages" : 0,
+      "views" : 6,
+      "last visit" : "Aug 18, 2015 8:17:18 AM"
+    } ]
+  }, {
+    "name" : "Boiler seems broken on 14th floor (#I1508-144)",
+    "asset" : 0,
+    "attachment" : 0,
+    "message" : 1,
+    "user" : 1,
+    "site" : 1,
+    "room" : 1,
+    "lastMessage" : "Aug 11, 2015 7:39:16 AM",
+    "view" : 11,
+    "remoteId" : 2,
+    "publicId" : 1,
+    "source" : 16,
+    "mailgun" : 3,
+    "mailgunEvents" : {
+      "clicked" : 2,
+      "delivered" : 1
+    },
+    "users (watching)" : [ {
+      "name" : "Service Manager Torenhove",
+      "type" : "supplier",
+      "messages" : 0,
+      "views" : 2,
+      "last visit" : "Aug 14, 2015 10:56:37 AM"
+    } ]
+  }, {
+    "name" : "Zonwering defect (#I1508-074)",
+    "asset" : 0,
+    "attachment" : 0,
+    "message" : 1,
+    "user" : 1,
+    "site" : 1,
+    "room" : 1,
+    "lastMessage" : "Aug 5, 2015 2:10:41 PM",
+    "view" : 15,
+    "remoteId" : 2,
+    "publicId" : 1,
+    "source" : 20,
+    "mailgun" : 18,
+    "mailgunEvents" : {
+      "clicked" : 10,
+      "delivered" : 1,
+      "opened" : 7
+    },
+    "users (watching)" : [ {
+      "name" : "Service Manager Torenhove",
+      "type" : "supplier",
+      "messages" : 0,
+      "views" : 11,
+      "last visit" : "Aug 6, 2015 6:15:47 AM"
+    } ]
+  }, {
+    "name" : "LIft button 11th floor (#I1506-353)",
+    "asset" : 0,
+    "attachment" : 0,
+    "message" : 1,
+    "user" : 1,
+    "site" : 0,
+    "room" : 0,
+    "lastMessage" : "Aug 5, 2015 8:31:18 AM",
+    "view" : 5,
+    "remoteId" : 2,
+    "publicId" : 1,
+    "source" : 8,
+    "mailgun" : 2,
+    "mailgunEvents" : {
+      "clicked" : 1,
+      "delivered" : 1
+    },
+    "users (watching)" : [ {
+      "name" : "Service Manager Torenhove",
+      "type" : "supplier",
+      "messages" : 0,
+      "views" : 2,
+      "last visit" : "Aug 5, 2015 10:46:58 AM"
+    } ]
+  }, {
+    "name" : "WC verstopt (#I1508-025)",
+    "asset" : 0,
+    "attachment" : 0,
+    "message" : 2,
+    "user" : 1,
+    "site" : 1,
+    "room" : 1,
+    "lastMessage" : "Aug 3, 2015 3:09:27 PM",
+    "view" : 7,
+    "remoteId" : 2,
+    "publicId" : 1,
+    "source" : 13,
+    "mailgun" : 3,
+    "mailgunEvents" : {
+      "clicked" : 2,
+      "delivered" : 1
+    },
+    "users (watching)" : [ {
+      "name" : "Service Manager Torenhove",
+      "type" : "supplier",
+      "messages" : 0,
+      "views" : 3,
+      "last visit" : "Aug 13, 2015 5:21:02 AM"
+    } ]
+  }, {
+    "name" : "Scooter voor fietsenrek (#I1504-186)",
+    "asset" : 0,
+    "attachment" : 0,
+    "message" : 8,
+    "user" : 2,
+    "site" : 1,
+    "room" : 0,
+    "lastMessage" : "Jul 30, 2015 11:02:18 AM",
+    "view" : 23,
+    "remoteId" : 2,
+    "publicId" : 1,
+    "source" : 37,
+    "mailgun" : 9,
+    "mailgunEvents" : {
+      "clicked" : 5,
+      "delivered" : 3,
+      "opened" : 1
+    },
+    "users (watching)" : [ {
+      "name" : "Jasmijn Moerman",
+      "type" : "operator",
+      "messages" : 5,
+      "views" : 13,
+      "last visit" : "Aug 5, 2015 7:50:27 AM"
+    }, {
+      "name" : "Van der Vorm Vastgoed",
+      "type" : "supplier",
+      "messages" : 3,
+      "views" : 10,
+      "last visit" : "Aug 3, 2015 7:17:11 AM"
+    } ]
+  }, {
+    "name" : "Parkeerpas 106 activeren (#I1507-303)",
+    "asset" : 1,
+    "attachment" : 0,
+    "message" : 8,
+    "user" : 1,
+    "site" : 0,
+    "room" : 0,
+    "lastMessage" : "Jul 30, 2015 10:18:27 AM",
+    "view" : 27,
+    "remoteId" : 2,
+    "publicId" : 1,
+    "source" : 44,
+    "mailgun" : 13,
+    "mailgunEvents" : {
+      "clicked" : 8,
+      "delivered" : 3,
+      "opened" : 2
+    },
+    "users (watching)" : [ {
+      "name" : "Van der Vorm Vastgoed",
+      "type" : "supplier",
+      "messages" : 4,
+      "views" : 13,
+      "last visit" : "Aug 3, 2015 7:18:44 AM"
+    } ]
+  }, {
+    "name" : "Lamp kapot algemene ruimte bij de lift 13e (#I1507-459)",
+    "asset" : 0,
+    "attachment" : 0,
+    "message" : 1,
+    "user" : 1,
+    "site" : 1,
+    "room" : 1,
+    "lastMessage" : "Jul 29, 2015 10:50:53 AM",
+    "view" : 2,
+    "remoteId" : 2,
+    "publicId" : 1,
+    "source" : 7,
+    "mailgun" : 1,
+    "mailgunEvents" : {
+      "delivered" : 1
+    },
+    "users (watching)" : [ {
+      "name" : "Service Manager Torenhove",
+      "type" : "supplier",
+      "messages" : 0,
+      "views" : 0,
+      "last visit" : "never"
+    } ]
+  }, {
+    "name" : "Danfoss melding 10e (#I1507-224)",
+    "asset" : 0,
+    "attachment" : 1,
+    "message" : 2,
+    "user" : 1,
+    "site" : 1,
+    "room" : 1,
+    "lastMessage" : "Jul 29, 2015 8:27:32 AM",
+    "view" : 9,
+    "remoteId" : 2,
+    "publicId" : 1,
+    "source" : 17,
+    "mailgun" : 10,
+    "mailgunEvents" : {
+      "clicked" : 8,
+      "delivered" : 2
+    },
+    "users (watching)" : [ {
+      "name" : "Service Manager Torenhove",
+      "type" : "supplier",
+      "messages" : 0,
+      "views" : 6,
+      "last visit" : "Jul 30, 2015 5:46:07 AM"
+    } ]
+  }, {
+    "name" : "Vogelnest op balkon 10e Oost (#I1506-512)",
+    "asset" : 0,
+    "attachment" : 2,
+    "message" : 2,
+    "user" : 1,
+    "site" : 0,
+    "room" : 0,
+    "lastMessage" : "Jul 29, 2015 8:27:10 AM",
+    "view" : 22,
+    "remoteId" : 2,
+    "publicId" : 1,
+    "source" : 29,
+    "mailgun" : 9,
+    "mailgunEvents" : {
+      "clicked" : 7,
+      "delivered" : 2
+    },
+    "users (watching)" : [ {
+      "name" : "Service Manager Torenhove",
+      "type" : "supplier",
+      "messages" : 0,
+      "views" : 7,
+      "last visit" : "Aug 4, 2015 9:04:51 AM"
+    } ]
+  }, {
+    "name" : "climarad geeft foutmelding (#I1507-043)",
+    "asset" : 0,
+    "attachment" : 1,
+    "message" : 2,
+    "user" : 1,
+    "site" : 1,
+    "room" : 1,
+    "lastMessage" : "Jul 29, 2015 8:21:59 AM",
+    "view" : 10,
+    "remoteId" : 2,
+    "publicId" : 1,
+    "source" : 18,
+    "mailgun" : 3,
+    "mailgunEvents" : {
+      "clicked" : 1,
+      "delivered" : 2
+    },
+    "users (watching)" : [ {
+      "name" : "Service Manager Torenhove",
+      "type" : "supplier",
+      "messages" : 0,
+      "views" : 1,
+      "last visit" : "Jul 30, 2015 5:45:12 AM"
+    } ]
+  }, {
+    "name" : "Schrikdraad los",
+    "asset" : 0,
+    "attachment" : 1,
+    "message" : 1,
+    "user" : 1,
+    "site" : 1,
+    "room" : 1,
+    "lastMessage" : "Jul 27, 2015 8:14:55 AM",
+    "view" : 9,
+    "remoteId" : 2,
+    "publicId" : 1,
+    "source" : 15,
+    "mailgun" : 4,
+    "mailgunEvents" : {
+      "clicked" : 3,
+      "delivered" : 1
+    },
+    "users (watching)" : [ {
+      "name" : "Service Manager Torenhove",
+      "type" : "supplier",
+      "messages" : 0,
+      "views" : 5,
+      "last visit" : "Aug 3, 2015 11:32:12 AM"
+    } ]
+  }, {
+    "name" : "Deur meterkast 14e niet dicht",
+    "asset" : 0,
+    "attachment" : 0,
+    "message" : 1,
+    "user" : 1,
+    "site" : 1,
+    "room" : 1,
+    "lastMessage" : "Jul 24, 2015 11:58:08 AM",
+    "view" : 6,
+    "remoteId" : 2,
+    "publicId" : 1,
+    "source" : 11,
+    "mailgun" : 2,
+    "mailgunEvents" : {
+      "clicked" : 1,
+      "delivered" : 1
+    },
+    "users (watching)" : [ {
+      "name" : "Service Manager Torenhove",
+      "type" : "supplier",
+      "messages" : 0,
+      "views" : 1,
+      "last visit" : "Jul 24, 2015 1:26:44 PM"
+    } ]
+  }, {
+    "name" : "Worcade doet het niet in IE (#I1504-518)",
+    "asset" : 0,
+    "attachment" : 0,
+    "message" : 6,
+    "user" : 3,
+    "site" : 0,
+    "room" : 0,
+    "lastMessage" : "Jul 23, 2015 1:38:30 PM",
+    "view" : 53,
+    "remoteId" : 2,
+    "publicId" : 1,
+    "source" : 64,
+    "mailgun" : 19,
+    "mailgunEvents" : {
+      "clicked" : 15,
+      "delivered" : 3,
+      "opened" : 1
+    },
+    "users (watching)" : [ {
+      "name" : "Jorn",
+      "type" : "supplier",
+      "messages" : 1,
+      "views" : 13,
+      "last visit" : "Aug 18, 2015 9:27:37 AM"
+    }, {
+      "name" : "Jasmijn Moerman",
+      "type" : "operator",
+      "messages" : 2,
+      "views" : 7,
+      "last visit" : "Jul 24, 2015 7:31:03 AM"
+    }, {
+      "name" : "Worcade",
+      "type" : "supplier",
+      "messages" : 3,
+      "views" : 33,
+      "last visit" : "Jul 23, 2015 10:22:27 AM"
+    } ]
+  }, {
+    "name" : "17233 geeft waterige koffie",
+    "asset" : 1,
+    "attachment" : 0,
+    "message" : 1,
+    "user" : 1,
+    "site" : 0,
+    "room" : 0,
+    "lastMessage" : "Jul 23, 2015 9:10:02 AM",
+    "view" : 14,
+    "remoteId" : 2,
+    "publicId" : 1,
+    "source" : 18,
+    "mailgun" : 5,
+    "mailgunEvents" : {
+      "delivered" : 1,
+      "opened" : 4
+    },
+    "users (watching)" : [ {
+      "name" : "Capriole Coffee-Service",
+      "type" : "supplier",
+      "messages" : 0,
+      "views" : 0,
+      "last visit" : "never"
+    } ]
+  }, {
+    "name" : "Vaatwasmachine geeft E:24 melding (#I1507-356)",
+    "asset" : 1,
+    "attachment" : 1,
+    "message" : 1,
+    "user" : 1,
+    "site" : 0,
+    "room" : 0,
+    "lastMessage" : "Jul 22, 2015 9:10:06 AM",
+    "view" : 12,
+    "remoteId" : 2,
+    "publicId" : 1,
+    "source" : 17,
+    "mailgun" : 2,
+    "mailgunEvents" : {
+      "clicked" : 1,
+      "delivered" : 1
+    },
+    "users (watching)" : [ {
+      "name" : "Wasmachinehuis",
+      "type" : "supplier",
+      "messages" : 0,
+      "views" : 1,
+      "last visit" : "Jul 22, 2015 9:25:38 AM"
+    } ]
+  }, {
+    "name" : "Boiler wordt niet goed bijgevuld",
+    "asset" : 1,
+    "attachment" : 0,
+    "message" : 1,
+    "user" : 1,
+    "site" : 0,
+    "room" : 0,
+    "lastMessage" : "Jul 21, 2015 8:09:20 AM",
+    "view" : 3,
+    "remoteId" : 2,
+    "publicId" : 1,
+    "source" : 7,
+    "mailgun" : 11,
+    "mailgunEvents" : {
+      "clicked" : 1,
+      "delivered" : 1,
+      "opened" : 9
+    },
+    "users (watching)" : [ {
+      "name" : "Capriole Coffee-Service",
+      "type" : "supplier",
+      "messages" : 0,
+      "views" : 1,
+      "last visit" : "Jul 21, 2015 8:23:07 AM"
+    } ]
+  }, {
+    "name" : "Vreemde lucht in ruimte (#I1507-307)",
+    "asset" : 0,
+    "attachment" : 0,
+    "message" : 2,
+    "user" : 1,
+    "site" : 1,
+    "room" : 1,
+    "lastMessage" : "Jul 17, 2015 11:47:04 AM",
+    "view" : 6,
+    "remoteId" : 2,
+    "publicId" : 1,
+    "source" : 12,
+    "mailgun" : 4,
+    "mailgunEvents" : {
+      "clicked" : 3,
+      "delivered" : 1
+    },
+    "users (watching)" : [ {
+      "name" : "Service Manager Torenhove",
+      "type" : "supplier",
+      "messages" : 0,
+      "views" : 3,
+      "last visit" : "Jul 21, 2015 6:17:22 AM"
+    } ]
+  }, {
+    "name" : "Storing pc (#15 07 008)",
+    "asset" : 1,
+    "attachment" : 0,
+    "message" : 5,
+    "user" : 1,
+    "site" : 0,
+    "room" : 0,
+    "lastMessage" : "Jul 16, 2015 8:57:01 AM",
+    "view" : 13,
+    "remoteId" : 2,
+    "publicId" : 1,
+    "source" : 22,
+    "mailgun" : 3,
+    "mailgunEvents" : {
+      "clicked" : 2,
+      "delivered" : 1
+    },
+    "users (watching)" : [ {
+      "name" : "AHK Telefonie test",
+      "type" : "supplier",
+      "messages" : 1,
+      "views" : 5,
+      "last visit" : "Jul 16, 2015 9:14:15 AM"
+    } ]
+  }, {
+    "name" : "Storing pc (#15 07 007)",
+    "asset" : 1,
+    "attachment" : 0,
+    "message" : 3,
+    "user" : 1,
+    "site" : 0,
+    "room" : 0,
+    "lastMessage" : "Jul 16, 2015 8:53:13 AM",
+    "view" : 1,
+    "remoteId" : 2,
+    "publicId" : 1,
+    "source" : 6,
+    "mailgun" : 0,
+    "mailgunEvents" : { },
+    "users (watching)" : [ {
+      "name" : "Donovan Hooghart",
+      "type" : "operator",
+      "messages" : 3,
+      "views" : 1,
+      "last visit" : "Jul 16, 2015 8:53:24 AM"
+    } ]
+  }, {
+    "name" : "Melding (#15 07 006)",
+    "asset" : 1,
+    "attachment" : 0,
+    "message" : 2,
+    "user" : 1,
+    "site" : 0,
+    "room" : 0,
+    "lastMessage" : "Jul 16, 2015 8:49:31 AM",
+    "view" : 1,
+    "remoteId" : 2,
+    "publicId" : 1,
+    "source" : 5,
+    "mailgun" : 0,
+    "mailgunEvents" : { },
+    "users (watching)" : [ {
+      "name" : "Donovan Hooghart",
+      "type" : "operator",
+      "messages" : 2,
+      "views" : 1,
+      "last visit" : "Jul 16, 2015 8:49:41 AM"
+    } ]
+  }, {
+    "name" : "Vreemde geur herentoilet 14e",
+    "asset" : 0,
+    "attachment" : 0,
+    "message" : 1,
+    "user" : 1,
+    "site" : 1,
+    "room" : 1,
+    "lastMessage" : "Jul 15, 2015 7:46:19 AM",
+    "view" : 5,
+    "remoteId" : 2,
+    "publicId" : 1,
+    "source" : 10,
+    "mailgun" : 5,
+    "mailgunEvents" : {
+      "clicked" : 4,
+      "delivered" : 1
+    },
+    "users (watching)" : [ {
+      "name" : "Service Manager Torenhove",
+      "type" : "supplier",
+      "messages" : 0,
+      "views" : 2,
+      "last visit" : "Jul 16, 2015 2:18:22 PM"
+    } ]
+  }, {
+    "name" : "Toilet blijft doorlopen (#I1507-231)",
+    "asset" : 0,
+    "attachment" : 0,
+    "message" : 2,
+    "user" : 1,
+    "site" : 1,
+    "room" : 1,
+    "lastMessage" : "Jul 14, 2015 10:40:45 AM",
+    "view" : 4,
+    "remoteId" : 2,
+    "publicId" : 1,
+    "source" : 10,
+    "mailgun" : 2,
+    "mailgunEvents" : {
+      "clicked" : 1,
+      "delivered" : 1
+    },
+    "users (watching)" : [ {
+      "name" : "Service Manager Torenhove",
+      "type" : "supplier",
+      "messages" : 0,
+      "views" : 1,
+      "last visit" : "Jul 16, 2015 6:07:56 AM"
+    } ]
+  }, {
+    "name" : "Rookmelder bedekt met bekertje",
+    "asset" : 0,
+    "attachment" : 0,
+    "message" : 1,
+    "user" : 1,
+    "site" : 0,
+    "room" : 0,
+    "lastMessage" : "Jul 13, 2015 2:32:35 PM",
+    "view" : 6,
+    "remoteId" : 2,
+    "publicId" : 1,
+    "source" : 9,
+    "mailgun" : 2,
+    "mailgunEvents" : {
+      "clicked" : 1,
+      "delivered" : 1
+    },
+    "users (watching)" : [ {
+      "name" : "Service Manager Torenhove",
+      "type" : "supplier",
+      "messages" : 0,
+      "views" : 1,
+      "last visit" : "Jul 16, 2015 6:08:46 AM"
+    } ]
+  }, {
+    "name" : "Knopje lift doet het niet (#I1506-349)",
+    "asset" : 0,
+    "attachment" : 0,
+    "message" : 2,
+    "user" : 1,
+    "site" : 0,
+    "room" : 0,
+    "lastMessage" : "Jul 13, 2015 11:31:01 AM",
+    "view" : 10,
+    "remoteId" : 2,
+    "publicId" : 1,
+    "source" : 14,
+    "mailgun" : 2,
+    "mailgunEvents" : {
+      "clicked" : 1,
+      "delivered" : 1
+    },
+    "users (watching)" : [ {
+      "name" : "Service Manager Torenhove",
+      "type" : "supplier",
+      "messages" : 0,
+      "views" : 1,
+      "last visit" : "Jul 16, 2015 6:09:23 AM"
+    } ]
+  }, {
+    "name" : "raam sluit niet goed (#I1507-200)",
+    "asset" : 0,
+    "attachment" : 1,
+    "message" : 1,
+    "user" : 1,
+    "site" : 1,
+    "room" : 1,
+    "lastMessage" : "Jul 10, 2015 12:11:38 PM",
+    "view" : 7,
+    "remoteId" : 2,
+    "publicId" : 1,
+    "source" : 13,
+    "mailgun" : 3,
+    "mailgunEvents" : {
+      "clicked" : 2,
+      "delivered" : 1
+    },
+    "users (watching)" : [ {
+      "name" : "Service Manager Torenhove",
+      "type" : "supplier",
+      "messages" : 0,
+      "views" : 3,
+      "last visit" : "Jul 16, 2015 6:11:39 AM"
+    } ]
+  }, {
+    "name" : "Regenpijp stuk (#I1507-178)",
+    "asset" : 0,
+    "attachment" : 0,
+    "message" : 1,
+    "user" : 1,
+    "site" : 1,
+    "room" : 1,
+    "lastMessage" : "Jul 10, 2015 8:21:59 AM",
+    "view" : 3,
+    "remoteId" : 2,
+    "publicId" : 1,
+    "source" : 8,
+    "mailgun" : 3,
+    "mailgunEvents" : {
+      "clicked" : 2,
+      "delivered" : 1
+    },
+    "users (watching)" : [ {
+      "name" : "Service Manager Torenhove",
+      "type" : "supplier",
+      "messages" : 0,
+      "views" : 1,
+      "last visit" : "Jul 16, 2015 6:12:24 AM"
+    } ]
+  }, {
+    "name" : "koelplafond lijkt niet te reageren op vraag (#I1507-115)",
+    "asset" : 1,
+    "attachment" : 2,
+    "message" : 1,
+    "user" : 1,
+    "site" : 0,
+    "room" : 0,
+    "lastMessage" : "Jul 7, 2015 9:44:37 AM",
+    "view" : 6,
+    "remoteId" : 2,
+    "publicId" : 1,
+    "source" : 12,
+    "mailgun" : 7,
+    "mailgunEvents" : {
+      "clicked" : 1,
+      "delivered" : 1,
+      "opened" : 5
+    },
+    "users (watching)" : [ {
+      "name" : "Mark Daniëls",
+      "type" : "supplier",
+      "messages" : 0,
+      "views" : 1,
+      "last visit" : "Jul 7, 2015 10:39:47 AM"
+    } ]
+  }, {
+    "name" : "Parkeerpas Topdesk 10 blokkeren",
+    "asset" : 1,
+    "attachment" : 0,
+    "message" : 3,
+    "user" : 1,
+    "site" : 0,
+    "room" : 0,
+    "lastMessage" : "Jul 6, 2015 10:32:34 AM",
+    "view" : 18,
+    "remoteId" : 2,
+    "publicId" : 1,
+    "source" : 26,
+    "mailgun" : 18,
+    "mailgunEvents" : {
+      "clicked" : 2,
+      "delivered" : 1,
+      "opened" : 15
+    },
+    "users (watching)" : [ {
+      "name" : "Van der Vorm Vastgoed",
+      "type" : "supplier",
+      "messages" : 2,
+      "views" : 4,
+      "last visit" : "Jul 6, 2015 10:32:33 AM"
+    } ]
+  }, {
+    "name" : "Strip los van deur (#I1507-087)",
+    "asset" : 0,
+    "attachment" : 1,
+    "message" : 2,
+    "user" : 1,
+    "site" : 1,
+    "room" : 1,
+    "lastMessage" : "Jul 6, 2015 10:21:25 AM",
+    "view" : 40,
+    "remoteId" : 2,
+    "publicId" : 1,
+    "source" : 47,
+    "mailgun" : 58,
+    "mailgunEvents" : {
+      "clicked" : 1,
+      "delivered" : 1,
+      "opened" : 56
+    },
+    "users (watching)" : [ {
+      "name" : "Erik Pieters",
+      "type" : "supplier",
+      "messages" : 0,
+      "views" : 19,
+      "last visit" : "Jul 6, 2015 11:49:42 AM"
+    } ]
+  }, {
+    "name" : "Fietsenstalling buiten geblokkeerd (#I1507-070)",
+    "asset" : 0,
+    "attachment" : 0,
+    "message" : 4,
+    "user" : 1,
+    "site" : 0,
+    "room" : 0,
+    "lastMessage" : "Jul 3, 2015 1:39:20 PM",
+    "view" : 16,
+    "remoteId" : 2,
+    "publicId" : 1,
+    "source" : 23,
+    "mailgun" : 3,
+    "mailgunEvents" : {
+      "clicked" : 2,
+      "delivered" : 1
+    },
+    "users (watching)" : [ {
+      "name" : "Van der Vorm Vastgoed",
+      "type" : "supplier",
+      "messages" : 1,
+      "views" : 3,
+      "last visit" : "Jul 6, 2015 7:40:27 AM"
+    } ]
+  }, {
+    "name" : "Uitnodiging Demo Worcade (#15 06 054)",
+    "asset" : 0,
+    "attachment" : 0,
+    "message" : 10,
+    "user" : 2,
+    "site" : 0,
+    "room" : 0,
+    "lastMessage" : "Jul 3, 2015 7:54:38 AM",
+    "view" : 35,
+    "remoteId" : 2,
+    "publicId" : 1,
+    "source" : 53,
+    "mailgun" : 12,
+    "mailgunEvents" : {
+      "clicked" : 6,
+      "delivered" : 4,
+      "opened" : 2
+    },
+    "users (watching)" : [ {
+      "name" : "Renske van der Heide",
+      "type" : "supplier",
+      "messages" : 3,
+      "views" : 19,
+      "last visit" : "Aug 18, 2015 2:27:12 PM"
+    }, {
+      "name" : "Benno Richters",
+      "type" : "operator",
+      "messages" : 7,
+      "views" : 16,
+      "last visit" : "Jul 3, 2015 12:09:27 PM"
+    } ]
+  }, {
+    "name" : "Verkeerde plaatsing bij hyperlnk (#14 10 261)",
+    "asset" : 0,
+    "attachment" : 2,
+    "message" : 6,
+    "user" : 1,
+    "site" : 0,
+    "room" : 0,
+    "lastMessage" : "Jul 1, 2015 3:07:23 PM",
+    "view" : 21,
+    "remoteId" : 2,
+    "publicId" : 1,
+    "source" : 30,
+    "mailgun" : 0,
+    "mailgunEvents" : { },
+    "users (watching)" : [ {
+      "name" : "Gijs Peskes",
+      "type" : "operator",
+      "messages" : 6,
+      "views" : 21,
+      "last visit" : "Jul 1, 2015 3:09:26 PM"
+    } ]
+  }, {
+    "name" : "Telefoon kapot door volle keukenkastjes",
+    "asset" : 0,
+    "attachment" : 0,
+    "message" : 2,
+    "user" : 1,
+    "site" : 1,
+    "room" : 1,
+    "lastMessage" : "Jul 1, 2015 8:56:42 AM",
+    "view" : 4,
+    "remoteId" : 2,
+    "publicId" : 1,
+    "source" : 11,
+    "mailgun" : 2,
+    "mailgunEvents" : {
+      "clicked" : 1,
+      "delivered" : 1
+    },
+    "users (watching)" : [ {
+      "name" : "Werkse! (voorheen Combiwerk)",
+      "type" : "supplier",
+      "messages" : 1,
+      "views" : 1,
+      "last visit" : "Jul 1, 2015 8:55:47 AM"
+    } ]
+  }, {
+    "name" : "Schroef mist wc bril (#I1506-502)",
+    "asset" : 0,
+    "attachment" : 0,
+    "message" : 2,
+    "user" : 1,
+    "site" : 1,
+    "room" : 1,
+    "lastMessage" : "Jun 30, 2015 9:45:52 AM",
+    "view" : 3,
+    "remoteId" : 2,
+    "publicId" : 1,
+    "source" : 9,
+    "mailgun" : 3,
+    "mailgunEvents" : {
+      "clicked" : 2,
+      "delivered" : 1
+    },
+    "users (watching)" : [ {
+      "name" : "Service Manager Torenhove",
+      "type" : "supplier",
+      "messages" : 0,
+      "views" : 2,
+      "last visit" : "Jun 30, 2015 1:51:03 PM"
+    } ]
+  }, {
+    "name" : "Melding (#15 06 239)",
+    "asset" : 0,
+    "attachment" : 0,
+    "message" : 4,
+    "user" : 1,
+    "site" : 0,
+    "room" : 0,
+    "lastMessage" : "Jun 26, 2015 8:40:19 AM",
+    "view" : 18,
+    "remoteId" : 2,
+    "publicId" : 1,
+    "source" : 25,
+    "mailgun" : 8,
+    "mailgunEvents" : {
+      "clicked" : 3,
+      "delivered" : 1,
+      "opened" : 4
+    },
+    "users (watching)" : [ {
+      "name" : "TEST Willem van Eldik",
+      "type" : "supplier",
+      "messages" : 1,
+      "views" : 7,
+      "last visit" : "Jun 26, 2015 8:44:20 AM"
+    } ]
+  }, {
+    "name" : "Ruit stuk :( (#I1503-363)",
+    "asset" : 0,
+    "attachment" : 0,
+    "message" : 1,
+    "user" : 2,
+    "site" : 1,
+    "room" : 1,
+    "lastMessage" : "Jun 25, 2015 11:26:10 AM",
+    "view" : 6,
+    "remoteId" : 2,
+    "publicId" : 1,
+    "source" : 11,
+    "mailgun" : 6,
+    "mailgunEvents" : {
+      "clicked" : 1,
+      "delivered" : 1,
+      "opened" : 4
+    },
+    "users (watching)" : [ {
+      "name" : "Jasmijn Moerman",
+      "type" : "operator",
+      "messages" : 1,
+      "views" : 5,
+      "last visit" : "Jul 23, 2015 1:28:10 PM"
+    }, {
+      "name" : "Service Manager Torenhove",
+      "type" : "supplier",
+      "messages" : 0,
+      "views" : 1,
+      "last visit" : "Jun 25, 2015 11:28:58 AM"
+    } ]
+  }, {
+    "name" : "FW: CODA eSize Interfaces - Voorstel Ontwikkeling (#15 05 059\\01)",
+    "asset" : 0,
+    "attachment" : 0,
+    "message" : 8,
+    "user" : 2,
+    "site" : 0,
+    "room" : 0,
+    "lastMessage" : "Jun 23, 2015 7:46:54 AM",
+    "view" : 26,
+    "remoteId" : 2,
+    "publicId" : 1,
+    "source" : 43,
+    "mailgun" : 10,
+    "mailgunEvents" : {
+      "clicked" : 3,
+      "delivered" : 2,
+      "opened" : 5
+    },
+    "users (watching)" : [ {
+      "name" : "T-groep, systeembeheer",
+      "type" : "supplier",
+      "messages" : 1,
+      "views" : 4,
+      "last visit" : "Jul 6, 2015 8:41:44 AM"
+    }, {
+      "name" : "Willem Eldik",
+      "type" : "operator",
+      "messages" : 7,
+      "views" : 22,
+      "last visit" : "Jun 26, 2015 7:06:29 AM"
+    } ]
+  }, {
+    "name" : "Test Worcade (#I1506 1689)",
+    "asset" : 0,
+    "attachment" : 0,
+    "message" : 3,
+    "user" : 1,
+    "site" : 0,
+    "room" : 0,
+    "lastMessage" : "Jun 19, 2015 1:18:57 PM",
+    "view" : 1,
+    "remoteId" : 2,
+    "publicId" : 1,
+    "source" : 5,
+    "mailgun" : 0,
+    "mailgunEvents" : { },
+    "users (watching)" : [ {
+      "name" : "Nadine Ridderplaat",
+      "type" : "operator",
+      "messages" : 3,
+      "views" : 1,
+      "last visit" : "Jun 19, 2015 1:19:07 PM"
+    } ]
+  }, {
+    "name" : "Test Worcade (#I1506 1595)",
+    "asset" : 0,
+    "attachment" : 0,
+    "message" : 2,
+    "user" : 2,
+    "site" : 1,
+    "room" : 1,
+    "lastMessage" : "Jun 18, 2015 12:53:23 PM",
+    "view" : 2,
+    "remoteId" : 2,
+    "publicId" : 1,
+    "source" : 7,
+    "mailgun" : 0,
+    "mailgunEvents" : { },
+    "users (watching)" : [ {
+      "name" : "Nadine Ridderplaat",
+      "type" : "operator",
+      "messages" : 0,
+      "views" : 0,
+      "last visit" : "never"
+    }, {
+      "name" : "Mariska Hoogerdijk",
+      "type" : "operator",
+      "messages" : 2,
+      "views" : 2,
+      "last visit" : "Jun 24, 2015 8:08:49 AM"
+    } ]
+  }, {
+    "name" : "Test Worcade (#I1506 1556)",
+    "asset" : 0,
+    "attachment" : 0,
+    "message" : 7,
+    "user" : 2,
+    "site" : 2,
+    "room" : 2,
+    "lastMessage" : "Jun 18, 2015 12:04:31 PM",
+    "view" : 13,
+    "remoteId" : 2,
+    "publicId" : 1,
+    "source" : 25,
+    "mailgun" : 0,
+    "mailgunEvents" : { },
+    "users (watching)" : [ {
+      "name" : "Nadine Ridderplaat",
+      "type" : "operator",
+      "messages" : 5,
+      "views" : 8,
+      "last visit" : "Jun 18, 2015 12:04:47 PM"
+    }, {
+      "name" : "Mariska Hoogerdijk",
+      "type" : "operator",
+      "messages" : 2,
+      "views" : 5,
+      "last visit" : "Jun 18, 2015 10:58:06 AM"
+    } ]
+  }, {
+    "name" : "Test145871 (#I1506 1578)",
+    "asset" : 0,
+    "attachment" : 0,
+    "message" : 7,
+    "user" : 2,
+    "site" : 1,
+    "room" : 1,
+    "lastMessage" : "Jun 18, 2015 11:42:28 AM",
+    "view" : 33,
+    "remoteId" : 2,
+    "publicId" : 1,
+    "source" : 47,
+    "mailgun" : 16,
+    "mailgunEvents" : {
+      "clicked" : 2,
+      "delivered" : 1,
+      "opened" : 13
+    },
+    "users (watching)" : [ {
+      "name" : "Mariska Hoogerdijk",
+      "type" : "operator",
+      "messages" : 4,
+      "views" : 11,
+      "last visit" : "Jun 18, 2015 12:31:17 PM"
+    }, {
+      "name" : "Test Workcade",
+      "type" : "supplier",
+      "messages" : 1,
+      "views" : 9,
+      "last visit" : "Jun 18, 2015 11:42:41 AM"
+    } ]
+  }, {
+    "name" : "CODA eSize Interfaces mbizzion (#15 05 059\\03)",
+    "asset" : 0,
+    "attachment" : 0,
+    "message" : 8,
+    "user" : 2,
+    "site" : 0,
+    "room" : 0,
+    "lastMessage" : "Jun 18, 2015 11:16:29 AM",
+    "view" : 25,
+    "remoteId" : 2,
+    "publicId" : 1,
+    "source" : 38,
+    "mailgun" : 7,
+    "mailgunEvents" : {
+      "clicked" : 5,
+      "delivered" : 2
+    },
+    "users (watching)" : [ {
+      "name" : "Roel Megen",
+      "type" : "supplier",
+      "messages" : 2,
+      "views" : 13,
+      "last visit" : "Jun 18, 2015 11:16:40 AM"
+    }, {
+      "name" : "Willem Eldik",
+      "type" : "operator",
+      "messages" : 6,
+      "views" : 12,
+      "last visit" : "Jun 18, 2015 10:23:20 AM"
+    } ]
+  }, {
+    "name" : "Melding (#15 06 056)",
+    "asset" : 0,
+    "attachment" : 0,
+    "message" : 4,
+    "user" : 2,
+    "site" : 0,
+    "room" : 0,
+    "lastMessage" : "Jun 18, 2015 8:50:28 AM",
+    "view" : 11,
+    "remoteId" : 2,
+    "publicId" : 1,
+    "source" : 18,
+    "mailgun" : 27,
+    "mailgunEvents" : {
+      "clicked" : 1,
+      "delivered" : 1,
+      "opened" : 25
+    },
+    "users (watching)" : [ {
+      "name" : "Benno Richters",
+      "type" : "supplier",
+      "messages" : 1,
+      "views" : 6,
+      "last visit" : "Jun 18, 2015 8:52:52 AM"
+    }, {
+      "name" : "Benno Richters",
+      "type" : "operator",
+      "messages" : 3,
+      "views" : 5,
+      "last visit" : "Jun 18, 2015 8:50:42 AM"
+    } ]
+  }, {
+    "name" : "Koelplafond defect? (#I1506-335)",
+    "asset" : 0,
+    "attachment" : 0,
+    "message" : 2,
+    "user" : 2,
+    "site" : 1,
+    "room" : 1,
+    "lastMessage" : "Jun 18, 2015 7:35:02 AM",
+    "view" : 5,
+    "remoteId" : 2,
+    "publicId" : 1,
+    "source" : 11,
+    "mailgun" : 3,
+    "mailgunEvents" : {
+      "clicked" : 2,
+      "delivered" : 1
+    },
+    "users (watching)" : [ {
+      "name" : "Jasmijn Moerman",
+      "type" : "operator",
+      "messages" : 2,
+      "views" : 3,
+      "last visit" : "Jul 23, 2015 1:25:13 PM"
+    }, {
+      "name" : "Service Manager Torenhove",
+      "type" : "supplier",
+      "messages" : 0,
+      "views" : 2,
+      "last visit" : "Jun 18, 2015 8:18:07 AM"
+    } ]
+  }, {
+    "name" : "Melding (#15 06 055)",
+    "asset" : 0,
+    "attachment" : 0,
+    "message" : 4,
+    "user" : 1,
+    "site" : 0,
+    "room" : 0,
+    "lastMessage" : "Jun 18, 2015 7:17:20 AM",
+    "view" : 2,
+    "remoteId" : 2,
+    "publicId" : 1,
+    "source" : 7,
+    "mailgun" : 0,
+    "mailgunEvents" : { },
+    "users (watching)" : [ {
+      "name" : "Benno Richters",
+      "type" : "operator",
+      "messages" : 4,
+      "views" : 2,
+      "last visit" : "Jun 18, 2015 7:17:35 AM"
+    } ]
+  }, {
+    "name" : "TEST2 (#I1506 1474)",
+    "asset" : 0,
+    "attachment" : 0,
+    "message" : 2,
+    "user" : 1,
+    "site" : 1,
+    "room" : 1,
+    "lastMessage" : "Jun 17, 2015 1:47:22 PM",
+    "view" : 2,
+    "remoteId" : 2,
+    "publicId" : 1,
+    "source" : 7,
+    "mailgun" : 0,
+    "mailgunEvents" : { },
+    "users (watching)" : [ {
+      "name" : "Mariska Hoogerdijk",
+      "type" : "operator",
+      "messages" : 2,
+      "views" : 2,
+      "last visit" : "Jun 18, 2015 9:44:05 AM"
+    } ]
+  }, {
+    "name" : "Defecte gasveer (#I1506-182)",
+    "asset" : 0,
+    "attachment" : 0,
+    "message" : 3,
+    "user" : 2,
+    "site" : 0,
+    "room" : 0,
+    "lastMessage" : "Jun 17, 2015 8:19:08 AM",
+    "view" : 13,
+    "remoteId" : 2,
+    "publicId" : 1,
+    "source" : 20,
+    "mailgun" : 9,
+    "mailgunEvents" : {
+      "clicked" : 4,
+      "delivered" : 2,
+      "opened" : 3
+    },
+    "users (watching)" : [ {
+      "name" : "Walter Dorst",
+      "type" : "supplier",
+      "messages" : 1,
+      "views" : 6,
+      "last visit" : "Jul 1, 2015 10:10:13 AM"
+    }, {
+      "name" : "Jasmijn Moerman",
+      "type" : "operator",
+      "messages" : 2,
+      "views" : 7,
+      "last visit" : "Jun 18, 2015 7:53:00 AM"
+    } ]
+  }, {
+    "name" : "Test Workcade (#I1506 1376)",
+    "asset" : 0,
+    "attachment" : 0,
+    "message" : 2,
+    "user" : 1,
+    "site" : 0,
+    "room" : 1,
+    "lastMessage" : "Jun 17, 2015 5:57:31 AM",
+    "view" : 0,
+    "remoteId" : 2,
+    "publicId" : 1,
+    "source" : 4,
+    "mailgun" : 0,
+    "mailgunEvents" : { },
+    "users (watching)" : [ {
+      "name" : "Mariska Hoogerdijk",
+      "type" : "operator",
+      "messages" : 2,
+      "views" : 0,
+      "last visit" : "never"
+    } ]
+  }, {
+    "name" : "CODA eSize Interfaces mbizzion (#15 05 059\\02)",
+    "asset" : 0,
+    "attachment" : 0,
+    "message" : 6,
+    "user" : 2,
+    "site" : 0,
+    "room" : 0,
+    "lastMessage" : "Jun 16, 2015 12:45:39 PM",
+    "view" : 41,
+    "remoteId" : 2,
+    "publicId" : 1,
+    "source" : 52,
+    "mailgun" : 48,
+    "mailgunEvents" : {
+      "clicked" : 7,
+      "delivered" : 2,
+      "opened" : 39
+    },
+    "users (watching)" : [ {
+      "name" : "Willem Eldik",
+      "type" : "operator",
+      "messages" : 4,
+      "views" : 12,
+      "last visit" : "Jun 16, 2015 12:45:38 PM"
+    }, {
+      "name" : "T-groep, systeembeheer",
+      "type" : "supplier",
+      "messages" : 2,
+      "views" : 29,
+      "last visit" : "Jun 11, 2015 9:23:00 AM"
+    } ]
+  }, {
+    "name" : "worcade test2 (#15 06 153)",
+    "asset" : 0,
+    "attachment" : 0,
+    "message" : 7,
+    "user" : 2,
+    "site" : 0,
+    "room" : 0,
+    "lastMessage" : "Jun 16, 2015 9:40:11 AM",
+    "view" : 34,
+    "remoteId" : 2,
+    "publicId" : 1,
+    "source" : 48,
+    "mailgun" : 8,
+    "mailgunEvents" : {
+      "clicked" : 2,
+      "delivered" : 3,
+      "opened" : 3
+    },
+    "users (watching)" : [ {
+      "name" : "Gijs Peskes",
+      "type" : "operator",
+      "messages" : 4,
+      "views" : 28,
+      "last visit" : "Jun 25, 2015 11:15:46 AM"
+    }, {
+      "name" : "Test Gijs",
+      "type" : "supplier",
+      "messages" : 3,
+      "views" : 6,
+      "last visit" : "Jun 16, 2015 9:40:26 AM"
+    } ]
+  }, {
+    "name" : "Test worcade (#15 06 151)",
+    "asset" : 0,
+    "attachment" : 0,
+    "message" : 3,
+    "user" : 1,
+    "site" : 0,
+    "room" : 0,
+    "lastMessage" : "Jun 16, 2015 9:10:36 AM",
+    "view" : 9,
+    "remoteId" : 2,
+    "publicId" : 1,
+    "source" : 13,
+    "mailgun" : 0,
+    "mailgunEvents" : { },
+    "users (watching)" : [ {
+      "name" : "Gijs Peskes",
+      "type" : "operator",
+      "messages" : 3,
+      "views" : 9,
+      "last visit" : "Jun 16, 2015 9:13:51 AM"
+    } ]
+  }, {
+    "name" : "INK Document - Externe referentie gelden voor hele document (#15 06 134)",
+    "asset" : 0,
+    "attachment" : 0,
+    "message" : 4,
+    "user" : 2,
+    "site" : 0,
+    "room" : 0,
+    "lastMessage" : "Jun 15, 2015 7:27:36 AM",
+    "view" : 6,
+    "remoteId" : 2,
+    "publicId" : 1,
+    "source" : 12,
+    "mailgun" : 2,
+    "mailgunEvents" : {
+      "clicked" : 1,
+      "delivered" : 1
+    },
+    "users (watching)" : [ {
+      "name" : "Willem Eldik",
+      "type" : "operator",
+      "messages" : 4,
+      "views" : 5,
+      "last visit" : "Jun 15, 2015 7:33:57 AM"
+    }, {
+      "name" : "Roel Megen",
+      "type" : "supplier",
+      "messages" : 0,
+      "views" : 1,
+      "last visit" : "Jun 15, 2015 7:33:37 AM"
+    } ]
+  }, {
+    "name" : "Stortbakken functioneren slecht (#I1506-238)",
+    "asset" : 0,
+    "attachment" : 0,
+    "message" : 1,
+    "user" : 2,
+    "site" : 0,
+    "room" : 1,
+    "lastMessage" : "Jun 12, 2015 9:55:05 AM",
+    "view" : 1,
+    "remoteId" : 2,
+    "publicId" : 1,
+    "source" : 5,
+    "mailgun" : 5,
+    "mailgunEvents" : {
+      "clicked" : 4,
+      "delivered" : 1
+    },
+    "users (watching)" : [ {
+      "name" : "Service Manager Torenhove",
+      "type" : "supplier",
+      "messages" : 0,
+      "views" : 0,
+      "last visit" : "never"
+    }, {
+      "name" : "Jasmijn Moerman",
+      "type" : "operator",
+      "messages" : 1,
+      "views" : 1,
+      "last visit" : "Jul 23, 2015 1:25:10 PM"
+    } ]
+  }, {
+    "name" : "rookmelder 11e (#I1506-164)",
+    "asset" : 0,
+    "attachment" : 0,
+    "message" : 3,
+    "user" : 2,
+    "site" : 1,
+    "room" : 1,
+    "lastMessage" : "Jun 9, 2015 1:32:04 PM",
+    "view" : 2,
+    "remoteId" : 2,
+    "publicId" : 1,
+    "source" : 8,
+    "mailgun" : 1,
+    "mailgunEvents" : {
+      "delivered" : 1
+    },
+    "users (watching)" : [ {
+      "name" : "Service Manager Torenhove",
+      "type" : "supplier",
+      "messages" : 0,
+      "views" : 0,
+      "last visit" : "never"
+    }, {
+      "name" : "Jasmijn Moerman",
+      "type" : "operator",
+      "messages" : 3,
+      "views" : 2,
+      "last visit" : "Jul 2, 2015 12:11:41 PM"
+    } ]
+  }, {
+    "name" : "Straal kraan is erg mager (#I1506-052)",
+    "asset" : 0,
+    "attachment" : 0,
+    "message" : 2,
+    "user" : 2,
+    "site" : 1,
+    "room" : 1,
+    "lastMessage" : "Jun 8, 2015 11:27:40 AM",
+    "view" : 7,
+    "remoteId" : 2,
+    "publicId" : 1,
+    "source" : 13,
+    "mailgun" : 3,
+    "mailgunEvents" : {
+      "clicked" : 1,
+      "delivered" : 2
+    },
+    "users (watching)" : [ {
+      "name" : "Jasmijn Moerman",
+      "type" : "operator",
+      "messages" : 2,
+      "views" : 5,
+      "last visit" : "Jul 23, 2015 1:25:11 PM"
+    }, {
+      "name" : "Service Manager Torenhove",
+      "type" : "supplier",
+      "messages" : 0,
+      "views" : 2,
+      "last visit" : "Jun 15, 2015 1:48:37 PM"
+    } ]
+  }, {
+    "name" : "Herentoilet 14e lekt langs pot (#I1505-434)",
+    "asset" : 0,
+    "attachment" : 0,
+    "message" : 2,
+    "user" : 2,
+    "site" : 1,
+    "room" : 1,
+    "lastMessage" : "May 29, 2015 9:49:35 AM",
+    "view" : 4,
+    "remoteId" : 2,
+    "publicId" : 1,
+    "source" : 9,
+    "mailgun" : 2,
+    "mailgunEvents" : {
+      "delivered" : 2
+    },
+    "users (watching)" : [ {
+      "name" : "Service Manager Torenhove",
+      "type" : "supplier",
+      "messages" : 0,
+      "views" : 0,
+      "last visit" : "never"
+    }, {
+      "name" : "Jasmijn Moerman",
+      "type" : "operator",
+      "messages" : 2,
+      "views" : 4,
+      "last visit" : "May 29, 2015 9:49:52 AM"
+    } ]
+  }, {
+    "name" : "Niet goed werkende vaatwasser, 10e verd. (#I1505-295)",
+    "asset" : 0,
+    "attachment" : 0,
+    "message" : 7,
+    "user" : 2,
+    "site" : 0,
+    "room" : 0,
+    "lastMessage" : "May 28, 2015 8:15:53 AM",
+    "view" : 18,
+    "remoteId" : 2,
+    "publicId" : 1,
+    "source" : 26,
+    "mailgun" : 11,
+    "mailgunEvents" : {
+      "clicked" : 5,
+      "delivered" : 4,
+      "opened" : 2
+    },
+    "users (watching)" : [ {
+      "name" : "Wasmachinehuis",
+      "type" : "supplier",
+      "messages" : 2,
+      "views" : 7,
+      "last visit" : "May 28, 2015 9:01:54 AM"
+    }, {
+      "name" : "Yasha Lepelaar",
+      "type" : "operator",
+      "messages" : 5,
+      "views" : 10,
+      "last visit" : "May 28, 2015 8:16:07 AM"
+    } ]
+  }, {
+    "name" : "test (#15 05 197)",
+    "asset" : 0,
+    "attachment" : 0,
+    "message" : 4,
+    "user" : 2,
+    "site" : 0,
+    "room" : 0,
+    "lastMessage" : "May 27, 2015 7:53:35 AM",
+    "view" : 10,
+    "remoteId" : 2,
+    "publicId" : 1,
+    "source" : 15,
+    "mailgun" : 4,
+    "mailgunEvents" : {
+      "clicked" : 1,
+      "delivered" : 2,
+      "opened" : 1
+    },
+    "users (watching)" : [ {
+      "name" : "Willem Eldik",
+      "type" : "operator",
+      "messages" : 3,
+      "views" : 7,
+      "last visit" : "May 27, 2015 7:53:48 AM"
+    }, {
+      "name" : "TEST Willem van Eldik",
+      "type" : "supplier",
+      "messages" : 1,
+      "views" : 3,
+      "last visit" : "May 27, 2015 7:53:48 AM"
+    } ]
+  }, {
+    "name" : "Verzoek Parkeerpas TOPdesk 35 blokkeren (#I1505-404)",
+    "asset" : 1,
+    "attachment" : 0,
+    "message" : 2,
+    "user" : 2,
+    "site" : 0,
+    "room" : 0,
+    "lastMessage" : "May 26, 2015 12:44:03 PM",
+    "view" : 10,
+    "remoteId" : 2,
+    "publicId" : 1,
+    "source" : 14,
+    "mailgun" : 6,
+    "mailgunEvents" : {
+      "clicked" : 4,
+      "delivered" : 1,
+      "opened" : 1
+    },
+    "users (watching)" : [ {
+      "name" : "Jasmijn Moerman",
+      "type" : "operator",
+      "messages" : 1,
+      "views" : 3,
+      "last visit" : "May 28, 2015 2:25:23 PM"
+    }, {
+      "name" : "Van der Vorm Vastgoed",
+      "type" : "supplier",
+      "messages" : 1,
+      "views" : 7,
+      "last visit" : "May 28, 2015 9:59:12 AM"
+    } ]
+  }, {
+    "name" : "FW: Melding FS contact module ziek wordt ook geregistreerd als taak (#15 02 092)",
+    "asset" : 0,
+    "attachment" : 0,
+    "message" : 3,
+    "user" : 2,
+    "site" : 0,
+    "room" : 0,
+    "lastMessage" : "May 20, 2015 2:55:13 PM",
+    "view" : 7,
+    "remoteId" : 2,
+    "publicId" : 1,
+    "source" : 11,
+    "mailgun" : 3,
+    "mailgunEvents" : {
+      "clicked" : 1,
+      "delivered" : 2
+    },
+    "users (watching)" : [ {
+      "name" : "FRANK TEST",
+      "type" : "supplier",
+      "messages" : 1,
+      "views" : 0,
+      "last visit" : "never"
+    }, {
+      "name" : "Gijs Peskes",
+      "type" : "operator",
+      "messages" : 2,
+      "views" : 7,
+      "last visit" : "Jun 16, 2015 8:51:24 AM"
+    } ]
+  }, {
+    "name" : "Melding (#15 05 152)",
+    "asset" : 0,
+    "attachment" : 0,
+    "message" : 5,
+    "user" : 2,
+    "site" : 0,
+    "room" : 0,
+    "lastMessage" : "May 20, 2015 2:50:13 PM",
+    "view" : 16,
+    "remoteId" : 2,
+    "publicId" : 1,
+    "source" : 22,
+    "mailgun" : 4,
+    "mailgunEvents" : {
+      "clicked" : 3,
+      "delivered" : 1
+    },
+    "users (watching)" : [ {
+      "name" : "FRANK TEST",
+      "type" : "supplier",
+      "messages" : 2,
+      "views" : 7,
+      "last visit" : "May 28, 2015 10:13:55 AM"
+    }, {
+      "name" : "Frank Groenland",
+      "type" : "operator",
+      "messages" : 3,
+      "views" : 9,
+      "last visit" : "May 20, 2015 2:53:18 PM"
+    } ]
+  }, {
+    "name" : "FlexImport Steenland (#15 04 016)",
+    "asset" : 0,
+    "attachment" : 0,
+    "message" : 6,
+    "user" : 2,
+    "site" : 0,
+    "room" : 0,
+    "lastMessage" : "May 20, 2015 2:37:04 PM",
+    "view" : 1,
+    "remoteId" : 2,
+    "publicId" : 1,
+    "source" : 8,
+    "mailgun" : 3,
+    "mailgunEvents" : {
+      "clicked" : 1,
+      "opened" : 2
+    },
+    "users (watching)" : [ {
+      "name" : "Gijs Peskes",
+      "type" : "operator",
+      "messages" : 1,
+      "views" : 0,
+      "last visit" : "never"
+    }, {
+      "name" : "Facilitaire zaken",
+      "type" : "supplier",
+      "messages" : 5,
+      "views" : 1,
+      "last visit" : "May 20, 2015 2:37:04 PM"
+    } ]
+  }, {
+    "name" : "Lekkage 12e keuken (#I1505-278)",
+    "asset" : 0,
+    "attachment" : 0,
+    "message" : 1,
+    "user" : 2,
+    "site" : 1,
+    "room" : 1,
+    "lastMessage" : "May 19, 2015 11:43:43 AM",
+    "view" : 2,
+    "remoteId" : 2,
+    "publicId" : 1,
+    "source" : 6,
+    "mailgun" : 1,
+    "mailgunEvents" : {
+      "delivered" : 1
+    },
+    "users (watching)" : [ {
+      "name" : "Service Manager Torenhove",
+      "type" : "supplier",
+      "messages" : 0,
+      "views" : 0,
+      "last visit" : "never"
+    }, {
+      "name" : "Jasmijn Moerman",
+      "type" : "operator",
+      "messages" : 1,
+      "views" : 2,
+      "last visit" : "May 19, 2015 11:44:03 AM"
+    } ]
+  }, {
+    "name" : "Urinoir loopt over (#I1505-214)",
+    "asset" : 0,
+    "attachment" : 0,
+    "message" : 1,
+    "user" : 2,
+    "site" : 1,
+    "room" : 1,
+    "lastMessage" : "May 15, 2015 9:37:28 AM",
+    "view" : 2,
+    "remoteId" : 2,
+    "publicId" : 1,
+    "source" : 6,
+    "mailgun" : 1,
+    "mailgunEvents" : {
+      "clicked" : 1
+    },
+    "users (watching)" : [ {
+      "name" : "Service Manager Torenhove",
+      "type" : "supplier",
+      "messages" : 0,
+      "views" : 0,
+      "last visit" : "never"
+    }, {
+      "name" : "Jasmijn Moerman",
+      "type" : "operator",
+      "messages" : 1,
+      "views" : 2,
+      "last visit" : "Jul 23, 2015 1:25:09 PM"
+    } ]
+  }, {
+    "name" : "Stopcontact ICT hok 1e (#I1503-170)",
+    "asset" : 0,
+    "attachment" : 0,
+    "message" : 4,
+    "user" : 2,
+    "site" : 1,
+    "room" : 1,
+    "lastMessage" : "May 15, 2015 9:14:12 AM",
+    "view" : 8,
+    "remoteId" : 2,
+    "publicId" : 1,
+    "source" : 15,
+    "mailgun" : 14,
+    "mailgunEvents" : {
+      "clicked" : 2,
+      "delivered" : 1,
+      "opened" : 11
+    },
+    "users (watching)" : [ {
+      "name" : "Jasmijn Moerman",
+      "type" : "operator",
+      "messages" : 4,
+      "views" : 6,
+      "last visit" : "Jul 23, 2015 1:24:08 PM"
+    }, {
+      "name" : "Service Manager Torenhove",
+      "type" : "supplier",
+      "messages" : 0,
+      "views" : 2,
+      "last visit" : "May 20, 2015 12:50:06 PM"
+    } ]
+  }, {
+    "name" : "Ronde TL stuk (#I1504-284)",
+    "asset" : 0,
+    "attachment" : 0,
+    "message" : 3,
+    "user" : 2,
+    "site" : 2,
+    "room" : 2,
+    "lastMessage" : "May 15, 2015 8:45:26 AM",
+    "view" : 7,
+    "remoteId" : 2,
+    "publicId" : 1,
+    "source" : 15,
+    "mailgun" : 1,
+    "mailgunEvents" : {
+      "delivered" : 1
+    },
+    "users (watching)" : [ {
+      "name" : "Jasmijn Moerman",
+      "type" : "operator",
+      "messages" : 2,
+      "views" : 5,
+      "last visit" : "May 15, 2015 9:08:19 AM"
+    }, {
+      "name" : "Van der Vorm Vastgoed",
+      "type" : "supplier",
+      "messages" : 1,
+      "views" : 2,
+      "last visit" : "May 15, 2015 8:45:37 AM"
+    } ]
+  }, {
+    "name" : "Extra groep bij flipperkast (#I1505-152)",
+    "asset" : 0,
+    "attachment" : 0,
+    "message" : 1,
+    "user" : 2,
+    "site" : 1,
+    "room" : 1,
+    "lastMessage" : "May 13, 2015 12:21:18 PM",
+    "view" : 14,
+    "remoteId" : 2,
+    "publicId" : 1,
+    "source" : 18,
+    "mailgun" : 51,
+    "mailgunEvents" : {
+      "clicked" : 6,
+      "opened" : 45
+    },
+    "users (watching)" : [ {
+      "name" : "Jasmijn Moerman",
+      "type" : "operator",
+      "messages" : 1,
+      "views" : 5,
+      "last visit" : "Jul 23, 2015 1:24:02 PM"
+    }, {
+      "name" : "A.A.D. Elektrotechniek B.V.",
+      "type" : "supplier",
+      "messages" : 0,
+      "views" : 9,
+      "last visit" : "May 26, 2015 7:19:45 AM"
+    } ]
+  }, {
+    "name" : "Melding (#15 05 008)",
+    "asset" : 0,
+    "attachment" : 0,
+    "message" : 3,
+    "user" : 2,
+    "site" : 0,
+    "room" : 0,
+    "lastMessage" : "May 11, 2015 12:22:25 PM",
+    "view" : 0,
+    "remoteId" : 2,
+    "publicId" : 1,
+    "source" : 4,
+    "mailgun" : 0,
+    "mailgunEvents" : { },
+    "users (watching)" : [ {
+      "name" : "Benno Richters",
+      "type" : "operator",
+      "messages" : 2,
+      "views" : 0,
+      "last visit" : "never"
+    }, {
+      "name" : "Benno Richters",
+      "type" : "supplier",
+      "messages" : 1,
+      "views" : 0,
+      "last visit" : "never"
+    } ]
+  }, {
+    "name" : "Airco maakt een raar geluid (#I1505-127)",
+    "asset" : 0,
+    "attachment" : 0,
+    "message" : 3,
+    "user" : 2,
+    "site" : 1,
+    "room" : 1,
+    "lastMessage" : "May 11, 2015 9:25:42 AM",
+    "view" : 5,
+    "remoteId" : 2,
+    "publicId" : 1,
+    "source" : 11,
+    "mailgun" : 0,
+    "mailgunEvents" : { },
+    "users (watching)" : [ {
+      "name" : "Midden Holland Koeltechniek",
+      "type" : "supplier",
+      "messages" : 1,
+      "views" : 0,
+      "last visit" : "never"
+    }, {
+      "name" : "Jasmijn Moerman",
+      "type" : "operator",
+      "messages" : 2,
+      "views" : 2,
+      "last visit" : "May 20, 2015 9:58:24 AM"
+    } ]
+  }, {
+    "name" : "Aanpassen lichtbakken (#I1505-033)",
+    "asset" : 0,
+    "attachment" : 0,
+    "message" : 1,
+    "user" : 2,
+    "site" : 0,
+    "room" : 0,
+    "lastMessage" : "May 4, 2015 9:13:52 AM",
+    "view" : 3,
+    "remoteId" : 2,
+    "publicId" : 1,
+    "source" : 5,
+    "mailgun" : 3,
+    "mailgunEvents" : {
+      "clicked" : 1,
+      "opened" : 2
+    },
+    "users (watching)" : [ {
+      "name" : "Jasmijn Moerman",
+      "type" : "operator",
+      "messages" : 1,
+      "views" : 1,
+      "last visit" : "Jul 23, 2015 1:25:12 PM"
+    }, {
+      "name" : "A.A.D. Elektrotechniek B.V.",
+      "type" : "supplier",
+      "messages" : 0,
+      "views" : 1,
+      "last visit" : "May 22, 2015 7:41:10 AM"
+    } ]
+  }, {
+    "name" : "Opdracht Fotobehang plaatsen (#I1504-432)",
+    "asset" : 0,
+    "attachment" : 0,
+    "message" : 4,
+    "user" : 2,
+    "site" : 1,
+    "room" : 1,
+    "lastMessage" : "May 4, 2015 8:57:33 AM",
+    "view" : 6,
+    "remoteId" : 2,
+    "publicId" : 1,
+    "source" : 13,
+    "mailgun" : 18,
+    "mailgunEvents" : {
+      "clicked" : 6,
+      "delivered" : 1,
+      "opened" : 11
+    },
+    "users (watching)" : [ {
+      "name" : "Jasmijn Moerman",
+      "type" : "operator",
+      "messages" : 2,
+      "views" : 1,
+      "last visit" : "Jul 23, 2015 1:25:13 PM"
+    }, {
+      "name" : "Schildersbedrijf Baron van Katwijk",
+      "type" : "supplier",
+      "messages" : 2,
+      "views" : 5,
+      "last visit" : "May 31, 2015 12:03:20 PM"
+    } ]
+  }, {
+    "name" : "WC-rol houder kapot (#I1504-175)",
+    "asset" : 0,
+    "attachment" : 0,
+    "message" : 5,
+    "user" : 2,
+    "site" : 2,
+    "room" : 1,
+    "lastMessage" : "May 4, 2015 8:37:55 AM",
+    "view" : 1,
+    "remoteId" : 2,
+    "publicId" : 1,
+    "source" : 10,
+    "mailgun" : 9,
+    "mailgunEvents" : {
+      "clicked" : 7,
+      "delivered" : 2
+    },
+    "users (watching)" : [ {
+      "name" : "Werkse! (voorheen Combiwerk)",
+      "type" : "supplier",
+      "messages" : 1,
+      "views" : 0,
+      "last visit" : "never"
+    }, {
+      "name" : "Jasmijn Moerman",
+      "type" : "operator",
+      "messages" : 4,
+      "views" : 1,
+      "last visit" : "Jul 23, 2015 1:25:08 PM"
+    } ]
+  }, {
+    "name" : "Vaatwas 13e (#I1504-556)",
+    "asset" : 0,
+    "attachment" : 0,
+    "message" : 2,
+    "user" : 2,
+    "site" : 1,
+    "room" : 1,
+    "lastMessage" : "Apr 30, 2015 11:12:19 AM",
+    "view" : 2,
+    "remoteId" : 2,
+    "publicId" : 1,
+    "source" : 7,
+    "mailgun" : 27,
+    "mailgunEvents" : {
+      "clicked" : 2,
+      "delivered" : 2,
+      "opened" : 23
+    },
+    "users (watching)" : [ {
+      "name" : "Werkse! (voorheen Combiwerk)",
+      "type" : "supplier",
+      "messages" : 0,
+      "views" : 0,
+      "last visit" : "never"
+    }, {
+      "name" : "Jasmijn Moerman",
+      "type" : "operator",
+      "messages" : 2,
+      "views" : 2,
+      "last visit" : "Jul 23, 2015 1:25:09 PM"
+    } ]
+  }, {
+    "name" : "duivenverschrikkers uit? (#I1504-534)",
+    "asset" : 0,
+    "attachment" : 0,
+    "message" : 1,
+    "user" : 2,
+    "site" : 0,
+    "room" : 0,
+    "lastMessage" : "Apr 29, 2015 10:16:23 AM",
+    "view" : 1,
+    "remoteId" : 2,
+    "publicId" : 1,
+    "source" : 3,
+    "mailgun" : 1,
+    "mailgunEvents" : {
+      "delivered" : 1
+    },
+    "users (watching)" : [ {
+      "name" : "Service Manager Torenhove",
+      "type" : "supplier",
+      "messages" : 0,
+      "views" : 0,
+      "last visit" : "never"
+    }, {
+      "name" : "Jasmijn Moerman",
+      "type" : "operator",
+      "messages" : 1,
+      "views" : 1,
+      "last visit" : "Jul 23, 2015 1:25:07 PM"
+    } ]
+  }, {
+    "name" : "thermostaat verplaatsen (#I1503-226)",
+    "asset" : 0,
+    "attachment" : 0,
+    "message" : 2,
+    "user" : 2,
+    "site" : 1,
+    "room" : 1,
+    "lastMessage" : "Apr 29, 2015 8:51:42 AM",
+    "view" : 1,
+    "remoteId" : 2,
+    "publicId" : 1,
+    "source" : 6,
+    "mailgun" : 6,
+    "mailgunEvents" : {
+      "clicked" : 3,
+      "delivered" : 1,
+      "opened" : 2
+    },
+    "users (watching)" : [ {
+      "name" : "Mark Daniëls",
+      "type" : "supplier",
+      "messages" : 0,
+      "views" : 0,
+      "last visit" : "never"
+    }, {
+      "name" : "Jasmijn Moerman",
+      "type" : "operator",
+      "messages" : 2,
+      "views" : 1,
+      "last visit" : "Jul 23, 2015 1:25:07 PM"
+    } ]
+  }, {
+    "name" : "Verwarming slaat niet aan bij vraag (#I1504-519)",
+    "asset" : 0,
+    "attachment" : 0,
+    "message" : 2,
+    "user" : 2,
+    "site" : 1,
+    "room" : 1,
+    "lastMessage" : "Apr 28, 2015 2:59:10 PM",
+    "view" : 1,
+    "remoteId" : 2,
+    "publicId" : 1,
+    "source" : 6,
+    "mailgun" : 2,
+    "mailgunEvents" : {
+      "delivered" : 2
+    },
+    "users (watching)" : [ {
+      "name" : "Service Manager Torenhove",
+      "type" : "supplier",
+      "messages" : 0,
+      "views" : 0,
+      "last visit" : "never"
+    }, {
+      "name" : "Jasmijn Moerman",
+      "type" : "operator",
+      "messages" : 2,
+      "views" : 1,
+      "last visit" : "Jul 23, 2015 1:25:05 PM"
+    } ]
+  }, {
+    "name" : "Access pass (#I1504-394)",
+    "asset" : 0,
+    "attachment" : 0,
+    "message" : 15,
+    "user" : 2,
+    "site" : 0,
+    "room" : 0,
+    "lastMessage" : "Apr 28, 2015 1:30:46 PM",
+    "view" : 1,
+    "remoteId" : 2,
+    "publicId" : 1,
+    "source" : 17,
+    "mailgun" : 17,
+    "mailgunEvents" : {
+      "clicked" : 10,
+      "delivered" : 7
+    },
+    "users (watching)" : [ {
+      "name" : "Van der Vorm Vastgoed",
+      "type" : "supplier",
+      "messages" : 7,
+      "views" : 0,
+      "last visit" : "never"
+    }, {
+      "name" : "Jasmijn Moerman",
+      "type" : "operator",
+      "messages" : 8,
+      "views" : 1,
+      "last visit" : "Jul 23, 2015 1:25:07 PM"
+    } ]
+  }, {
+    "name" : "Lichten uit in liftgang na 18u (#I1504-444)",
+    "asset" : 0,
+    "attachment" : 0,
+    "message" : 1,
+    "user" : 2,
+    "site" : 0,
+    "room" : 0,
+    "lastMessage" : "Apr 23, 2015 9:54:04 AM",
+    "view" : 1,
+    "remoteId" : 2,
+    "publicId" : 1,
+    "source" : 3,
+    "mailgun" : 1,
+    "mailgunEvents" : {
+      "delivered" : 1
+    },
+    "users (watching)" : [ {
+      "name" : "Van der Vorm Vastgoed",
+      "type" : "supplier",
+      "messages" : 0,
+      "views" : 0,
+      "last visit" : "never"
+    }, {
+      "name" : "Jasmijn Moerman",
+      "type" : "operator",
+      "messages" : 1,
+      "views" : 1,
+      "last visit" : "May 29, 2015 8:58:55 AM"
+    } ]
+  }, {
+    "name" : "Verwarming niet aan (#I1504-418)",
+    "asset" : 0,
+    "attachment" : 0,
+    "message" : 2,
+    "user" : 2,
+    "site" : 1,
+    "room" : 1,
+    "lastMessage" : "Apr 23, 2015 9:47:46 AM",
+    "view" : 1,
+    "remoteId" : 2,
+    "publicId" : 1,
+    "source" : 6,
+    "mailgun" : 2,
+    "mailgunEvents" : {
+      "delivered" : 2
+    },
+    "users (watching)" : [ {
+      "name" : "Van der Vorm Vastgoed",
+      "type" : "supplier",
+      "messages" : 0,
+      "views" : 0,
+      "last visit" : "never"
+    }, {
+      "name" : "Jasmijn Moerman",
+      "type" : "operator",
+      "messages" : 2,
+      "views" : 1,
+      "last visit" : "Jul 23, 2015 1:25:04 PM"
+    } ]
+  }, {
+    "name" : "Nooddeur 12e valt niet in slot (#I1504-451)",
+    "asset" : 0,
+    "attachment" : 0,
+    "message" : 1,
+    "user" : 2,
+    "site" : 1,
+    "room" : 1,
+    "lastMessage" : "Apr 23, 2015 8:58:07 AM",
+    "view" : 1,
+    "remoteId" : 2,
+    "publicId" : 1,
+    "source" : 5,
+    "mailgun" : 1,
+    "mailgunEvents" : {
+      "delivered" : 1
+    },
+    "users (watching)" : [ {
+      "name" : "Service Manager Torenhove",
+      "type" : "supplier",
+      "messages" : 0,
+      "views" : 0,
+      "last visit" : "never"
+    }, {
+      "name" : "Jasmijn Moerman",
+      "type" : "operator",
+      "messages" : 1,
+      "views" : 1,
+      "last visit" : "Jul 23, 2015 1:25:04 PM"
+    } ]
+  }, {
+    "name" : "Koffee shit (#I1504-384)",
+    "asset" : 1,
+    "attachment" : 0,
+    "message" : 2,
+    "user" : 2,
+    "site" : 0,
+    "room" : 0,
+    "lastMessage" : "Apr 21, 2015 9:03:32 AM",
+    "view" : 1,
+    "remoteId" : 2,
+    "publicId" : 1,
+    "source" : 5,
+    "mailgun" : 33,
+    "mailgunEvents" : {
+      "clicked" : 10,
+      "delivered" : 1,
+      "opened" : 22
+    },
+    "users (watching)" : [ {
+      "name" : "Capriole Coffee-Service",
+      "type" : "supplier",
+      "messages" : 0,
+      "views" : 0,
+      "last visit" : "never"
+    }, {
+      "name" : "Jasmijn Moerman",
+      "type" : "operator",
+      "messages" : 2,
+      "views" : 1,
+      "last visit" : "Jul 23, 2015 1:25:11 PM"
+    } ]
+  }, {
+    "name" : "Toegang parkeergarage na 1800 (#I1504-358)",
+    "asset" : 0,
+    "attachment" : 0,
+    "message" : 1,
+    "user" : 2,
+    "site" : 0,
+    "room" : 0,
+    "lastMessage" : "Apr 20, 2015 7:42:43 AM",
+    "view" : 1,
+    "remoteId" : 2,
+    "publicId" : 1,
+    "source" : 3,
+    "mailgun" : 1,
+    "mailgunEvents" : {
+      "delivered" : 1
+    },
+    "users (watching)" : [ {
+      "name" : "Van der Vorm Vastgoed",
+      "type" : "supplier",
+      "messages" : 0,
+      "views" : 0,
+      "last visit" : "never"
+    }, {
+      "name" : "Jasmijn Moerman",
+      "type" : "operator",
+      "messages" : 1,
+      "views" : 1,
+      "last visit" : "Jul 23, 2015 1:24:55 PM"
+    } ]
+  }, {
+    "name" : "Ronde TL stuk (#I1504-187)",
+    "asset" : 0,
+    "attachment" : 0,
+    "message" : 2,
+    "user" : 2,
+    "site" : 1,
+    "room" : 1,
+    "lastMessage" : "Apr 17, 2015 9:57:47 AM",
+    "view" : 1,
+    "remoteId" : 2,
+    "publicId" : 1,
+    "source" : 6,
+    "mailgun" : 2,
+    "mailgunEvents" : {
+      "delivered" : 2
+    },
+    "users (watching)" : [ {
+      "name" : "Van der Vorm Vastgoed",
+      "type" : "supplier",
+      "messages" : 0,
+      "views" : 0,
+      "last visit" : "never"
+    }, {
+      "name" : "Jasmijn Moerman",
+      "type" : "operator",
+      "messages" : 2,
+      "views" : 1,
+      "last visit" : "Jul 23, 2015 1:24:55 PM"
+    } ]
+  }, {
+    "name" : "liftknop defect (#I1501-339)",
+    "asset" : 0,
+    "attachment" : 0,
+    "message" : 2,
+    "user" : 2,
+    "site" : 1,
+    "room" : 1,
+    "lastMessage" : "Apr 16, 2015 10:01:32 AM",
+    "view" : 1,
+    "remoteId" : 2,
+    "publicId" : 1,
+    "source" : 6,
+    "mailgun" : 13,
+    "mailgunEvents" : {
+      "delivered" : 1,
+      "opened" : 12
+    },
+    "users (watching)" : [ {
+      "name" : "Service Manager Torenhove",
+      "type" : "supplier",
+      "messages" : 0,
+      "views" : 0,
+      "last visit" : "never"
+    }, {
+      "name" : "Jasmijn Moerman",
+      "type" : "operator",
+      "messages" : 2,
+      "views" : 1,
+      "last visit" : "Jul 23, 2015 1:24:57 PM"
+    } ]
+  }, {
+    "name" : "Buitendeur valt niet meer in het slot (#I1502-429)",
+    "asset" : 0,
+    "attachment" : 0,
+    "message" : 3,
+    "user" : 2,
+    "site" : 1,
+    "room" : 1,
+    "lastMessage" : "Apr 16, 2015 9:57:22 AM",
+    "view" : 3,
+    "remoteId" : 2,
+    "publicId" : 1,
+    "source" : 9,
+    "mailgun" : 12,
+    "mailgunEvents" : {
+      "delivered" : 1,
+      "opened" : 11
+    },
+    "users (watching)" : [ {
+      "name" : "Service Manager Torenhove",
+      "type" : "supplier",
+      "messages" : 0,
+      "views" : 0,
+      "last visit" : "never"
+    }, {
+      "name" : "Jasmijn Moerman",
+      "type" : "operator",
+      "messages" : 3,
+      "views" : 3,
+      "last visit" : "Jul 23, 2015 1:25:01 PM"
+    } ]
+  }, {
+    "name" : "Afstelling zonneschermen (#I1410-771)",
+    "asset" : 0,
+    "attachment" : 0,
+    "message" : 3,
+    "user" : 2,
+    "site" : 1,
+    "room" : 1,
+    "lastMessage" : "Apr 16, 2015 9:55:42 AM",
+    "view" : 2,
+    "remoteId" : 2,
+    "publicId" : 1,
+    "source" : 8,
+    "mailgun" : 13,
+    "mailgunEvents" : {
+      "delivered" : 1,
+      "opened" : 12
+    },
+    "users (watching)" : [ {
+      "name" : "Service Manager Torenhove",
+      "type" : "supplier",
+      "messages" : 0,
+      "views" : 0,
+      "last visit" : "never"
+    }, {
+      "name" : "Jasmijn Moerman",
+      "type" : "operator",
+      "messages" : 3,
+      "views" : 2,
+      "last visit" : "Jul 23, 2015 1:25:02 PM"
+    } ]
+  }, {
+    "name" : "Gootsteen verstopt (#I1504-259)",
+    "asset" : 0,
+    "attachment" : 0,
+    "message" : 1,
+    "user" : 2,
+    "site" : 1,
+    "room" : 1,
+    "lastMessage" : "Apr 15, 2015 11:02:29 AM",
+    "view" : 1,
+    "remoteId" : 2,
+    "publicId" : 1,
+    "source" : 5,
+    "mailgun" : 1,
+    "mailgunEvents" : {
+      "delivered" : 1
+    },
+    "users (watching)" : [ {
+      "name" : "Van der Vorm Vastgoed",
+      "type" : "supplier",
+      "messages" : 0,
+      "views" : 0,
+      "last visit" : "never"
+    }, {
+      "name" : "Jasmijn Moerman",
+      "type" : "operator",
+      "messages" : 1,
+      "views" : 1,
+      "last visit" : "Jul 23, 2015 1:24:44 PM"
+    } ]
+  }, {
+    "name" : "Werkt niet (#I1504-276)",
+    "asset" : 1,
+    "attachment" : 0,
+    "message" : 1,
+    "user" : 2,
+    "site" : 0,
+    "room" : 0,
+    "lastMessage" : "Apr 15, 2015 11:00:04 AM",
+    "view" : 1,
+    "remoteId" : 2,
+    "publicId" : 1,
+    "source" : 4,
+    "mailgun" : 14,
+    "mailgunEvents" : {
+      "clicked" : 3,
+      "delivered" : 1,
+      "opened" : 10
+    },
+    "users (watching)" : [ {
+      "name" : "Capriole Coffee-Service",
+      "type" : "supplier",
+      "messages" : 0,
+      "views" : 0,
+      "last visit" : "never"
+    }, {
+      "name" : "Jasmijn Moerman",
+      "type" : "operator",
+      "messages" : 1,
+      "views" : 1,
+      "last visit" : "Jul 23, 2015 1:24:55 PM"
+    } ]
+  }, {
+    "name" : "Melding (#I1504-209)",
+    "asset" : 0,
+    "attachment" : 0,
+    "message" : 2,
+    "user" : 2,
+    "site" : 1,
+    "room" : 1,
+    "lastMessage" : "Apr 10, 2015 2:19:05 PM",
+    "view" : 1,
+    "remoteId" : 2,
+    "publicId" : 1,
+    "source" : 6,
+    "mailgun" : 1,
+    "mailgunEvents" : {
+      "delivered" : 1
+    },
+    "users (watching)" : [ {
+      "name" : "A.A.D. Elektrotechniek B.V.",
+      "type" : "supplier",
+      "messages" : 0,
+      "views" : 0,
+      "last visit" : "never"
+    }, {
+      "name" : "Jasmijn Moerman",
+      "type" : "operator",
+      "messages" : 2,
+      "views" : 1,
+      "last visit" : "Jul 22, 2015 2:49:07 PM"
+    } ]
+  }, {
+    "name" : "vaatwasser wast niet goed (#I1504-038)",
+    "asset" : 0,
+    "attachment" : 0,
+    "message" : 7,
+    "user" : 2,
+    "site" : 2,
+    "room" : 1,
+    "lastMessage" : "Apr 9, 2015 3:31:19 PM",
+    "view" : 1,
+    "remoteId" : 2,
+    "publicId" : 1,
+    "source" : 12,
+    "mailgun" : 7,
+    "mailgunEvents" : {
+      "clicked" : 5,
+      "delivered" : 2
+    },
+    "users (watching)" : [ {
+      "name" : "Wasmachinehuis",
+      "type" : "supplier",
+      "messages" : 2,
+      "views" : 0,
+      "last visit" : "never"
+    }, {
+      "name" : "Jasmijn Moerman",
+      "type" : "operator",
+      "messages" : 5,
+      "views" : 1,
+      "last visit" : "Jul 22, 2015 2:48:53 PM"
+    } ]
+  }, {
+    "name" : "Schuine koffie straal (#I1504-164)",
+    "asset" : 1,
+    "attachment" : 0,
+    "message" : 1,
+    "user" : 2,
+    "site" : 1,
+    "room" : 0,
+    "lastMessage" : "Apr 9, 2015 9:42:27 AM",
+    "view" : 0,
+    "remoteId" : 2,
+    "publicId" : 1,
+    "source" : 4,
+    "mailgun" : 11,
+    "mailgunEvents" : {
+      "clicked" : 4,
+      "delivered" : 1,
+      "opened" : 6
+    },
+    "users (watching)" : [ {
+      "name" : "Yasha Lepelaar",
+      "type" : "operator",
+      "messages" : 1,
+      "views" : 0,
+      "last visit" : "never"
+    }, {
+      "name" : "Capriole Coffee-Service",
+      "type" : "supplier",
+      "messages" : 0,
+      "views" : 0,
+      "last visit" : "never"
+    } ]
+  } ]
+}
