@@ -1,0 +1,14 @@
+<html ng-app="app">
+	<head>
+		<title>Going ballistics over statistics</title>
+		<script src="angular.js"></script>
+		<script src="app.js"></script>
+			</head>
+	<body ng-controller="stat">
+		<ul >
+			<li ng-repeat="convers in data.conversations">{{ convers.name }}</li>
+		</ul>
+		<p>{{ data.totalConversations }}</p>
+		<p>{{ status }} </p>
+	</body>
+</html>
